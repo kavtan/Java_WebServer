@@ -1,0 +1,4 @@
+AuthName "User name and password needed"
+AuthType Basic 
+AuthUserFile $SERVER/users
+require valid-user 
